@@ -12,6 +12,6 @@ gem 'reportportal', '0.7'
 gem 'rspec', '3.6.0'
 gem 'rubytree', '1.0.0'
 gem 'screen-recorder'
-gem 'selenium-webdriver'
+gem 'selenium-webdriver' , '3.142.7'
 
 

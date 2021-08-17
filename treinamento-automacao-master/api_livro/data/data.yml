@@ -1,0 +1,20 @@
+staging:
+  url_api: https://api.altu.com.br/portoRamosElementaresWpp-staging/staging
+  tempo: 60
+
+dev:
+  url_api: https://fakerestapi.azurewebsites.net/api/
+  tempo: 60
+
+hom:
+  url_api: https://api.altu.com.br/portoRamosElementaresWpp-hom/hom
+  tempo: 60
+
+prod:
+  url_api: https://api.altu.com.br/portoRamosElementaresWpp-prod/prod
+  tempo: 60
+
+endpoint:
+  books: 'v1/Books'
+ 
+  
